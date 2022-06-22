@@ -1,0 +1,26 @@
+How do we add express into our node app? npm i express
+a. What is Middleware? b. How do you recognize when its being used in your project? (hint: Syntax)
+
+Middleware functions are functions that have acess to the req, res, and next function
+app.
+
+Set up a get and post request.
+
+const express = require('express')
+const app = express()
+app.get('/somePath, (req, res) => {
+  
+})
+
+app.post('/somePost', (req, res) => {
+  let test = req
+  
+})
+
+
+
+What are dependencies?
+installed modules that the project depends on to run properly
+
+What is body-parser use for?
+grab the infromation the client/user passed to us in a post request

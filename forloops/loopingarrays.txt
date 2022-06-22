@@ -1,0 +1,18 @@
+write all exercises with functions or anonymous arrow fuctions 
+i will give you an array to loop through after you write the function
+
+1. given an array 
+   console.log each element in the array
+
+2. given an array
+   console.log each element in reverse order
+
+3. given an array
+   if the number is odd add two to the number and console.log that number
+
+4. given two arrays 
+   for each element in the first array add it to each element in the second array in reverse order and push to a new array
+   console.log the new array 
+
+
+   

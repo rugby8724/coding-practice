@@ -1,0 +1,11 @@
+
+
+logic question strawberry, grape, mix
+elevator logic
+Bar revenue
+array method map https://www.w3schools.com/jsref/jsref_map.asp
+map exercise
+
+array method filter
+filter exercise
+

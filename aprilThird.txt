@@ -1,0 +1,68 @@
+Break down for loop in plain english
+example for(let i=5; i > -4; i--) {
+  
+}
+     
+for(part1;part2;part3){
+
+}
+
+
+
+let testArr = ['Veronica', 'Terence', 'Drew' ]
+
+for (i of x){
+  console.log(i)
+}
+
+for(let i = 0; i<testArr.length, i++){
+    i = testArr[i]
+}
+
+
+
+
+create a for in loop
+
+for(let i in testArr){
+  console.log(i)
+}
+
+for(let i = 0; i<testArr.length, i++){
+  
+}
+
+
+
+create a for of loop
+
+for(let i of testArr){
+  console.log(i)
+}
+
+
+while loop
+
+let a = 3
+
+while(a > 0){
+  console.log('hello world')
+  a -=1
+}
+
+indexOf()
+
+
+
+modulus
+
+
+
+reseting variables
+
+returns and early returns
+
+
+
+
+

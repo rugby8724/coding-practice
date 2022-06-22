@@ -1,0 +1,10 @@
+How do we create a database in SQL?
+CREATE DATABASE DB_NAME
+How do we insert values into tables in SQL?
+INSERT INTO TABLE (column1, column2) VALUES(col1val, col2val)
+Assume there is a database with a table named students where the id’s are in a serial order:
+
+Write a Query that returns all the data in the described table
+SELECT * FROM STUDENTS
+Write a query that returns a name where an id is 5
+SELCECT * FROM STUDENTS WHERE id=5

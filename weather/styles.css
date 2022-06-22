@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://image.shutterstock.com/image-vector/owl-cup-coffee-vector-flat-260nw-417181810.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(93, 206, 33);
+}
+
+#displayWeather {
+  display: flex;
+}
+
+/* .dailyForcastDisplay{
+  justify-content: ;
+  
+} */

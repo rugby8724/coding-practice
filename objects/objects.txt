@@ -1,0 +1,17 @@
+example objects 
+
+car = {
+  make: 'Ford',
+  model: 'Mustang',
+  year: '2022',
+  color: 'black'
+}
+
+objects have a key: value pair
+
+returns all the keys
+let carKeys = Object.keys(car)
+
+get all the values 
+let carValues = Objects.values(car)
+

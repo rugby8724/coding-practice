@@ -1,0 +1,21 @@
+Break down for loop in plain english
+example for(let i=3; i > -4; i--) 
+     start, condition true or fale 
+for(part1;part2;part3){
+
+}
+
+
+
+let testArr = ['Veronica', 'Tereance', 'Drew' ]
+
+create a for in loop
+
+create a for of loop
+
+
+
+
+
+
+

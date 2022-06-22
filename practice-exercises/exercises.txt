@@ -1,0 +1,31 @@
+
+1. create a function that takes an array of numbers and returns the smallest and biggest numbers in the array
+2. create a function that takes in a list objects, add key tax with value of tax(7% tax) then return a list of the objects with the new key example of objects {food: sandwich, price: 7}
+3. given a word console.log the number of vowels in the word us index of
+4. use callback, one function gives the average of an array second fucntion will return the letter grade of the average
+5. fizzbuzz 
+
+
+[]
+
+
+
+total amount bar made 
+let totalMade = 0
+A drink will only be served if the age of the person is 21 or older 
+and if it is between 17:00 and 23:00 (for ease we are using 24 hour clock and will only be passed the hour with no minutes example 17)
+the last amount is the cost of the customers drink
+you will be given a 2d array with each inner array having an age, time, and cost of drink
+example data = [[18,17, 2], [44, 14, 7], [33, 22, 5]]
+
+map exercise 
+using a for loop create an array with the numbers 1 thru 100
+
+using the map array if the num is divisible by both 3 and 5 return fizzbuzz
+for all other numbers return the number times 2
+
+filter exercise:
+given an array of names
+only return names if the second letter in the name is an e or if the last letter in the name is a vowel
+
+

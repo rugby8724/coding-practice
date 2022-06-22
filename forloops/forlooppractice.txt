@@ -1,0 +1,34 @@
+do all the below in a forloop
+
+1. print hello with the number of loops 5 times
+  example: 
+  hello 1
+  hello 2
+  hello 3
+  hello 4
+  hello 5
+
+2. with only making one change to your forloop print out hello only on odd numbers
+  example:
+  hello 1
+  hello 3
+  hello 5
+
+3. with only making two changes to our forloop print out only hello 2 and 5
+  example:
+  hello 2
+  hello 5
+
+4. now print out hello in descending order
+  example:
+  hello 5
+  hello 4
+  hello 3
+  hello 2
+  hello 1
+
+
+
+
+
+

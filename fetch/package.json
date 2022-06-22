@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "type":"module",
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.4",
+    "xhr2": "^0.2.1"
+  }
+}
